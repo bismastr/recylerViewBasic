@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">basicRecylerview</string>
+    <string name="app_name">My Application</string>
+    <string name="books_name">Books Name</string>
+    <string name="author_name">By Author</string>
 </resources>
