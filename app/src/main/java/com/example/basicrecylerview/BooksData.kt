@@ -5,7 +5,7 @@ object BooksData {
     "The Vanishing Half",
     "House of Earth and Blood",
     "A Promised Land",
-    "A Life on Our Planet: My Witness Statement and a Vision for the Future",
+    "A Life on Our Planet: ",
     "Such a Fun Age",
     "Caste: The Origins of Our Discontents",
     "Dearly: New Poems",
